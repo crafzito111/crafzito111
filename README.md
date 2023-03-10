@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos Prado</h1>
 <h3 align="center">Frontend passionate about web development</h3>
 
+<p align="center">
+💬 Ask me about **html, css, javascript and reactjs**
 
-- 💬 Ask me about **html, css, javascript and reactjs**
-
-- 📫 How to reach me **carlosluisprad@gmail.com**
+📫 How to reach me **carlosluisprad@gmail.com**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
