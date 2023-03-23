@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crafzito111&label=Profile%20views&color=0e75b6&style=flat" alt="crafzito111" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://carlos-prado-portfolio.vercel.app/es](https://carlos-prado-portfolio.vercel.app/es)
-
 - 📫 How to reach me **Carlosluisprad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
