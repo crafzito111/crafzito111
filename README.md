@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">Frontend passionate about web development</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=crafzito111&label=Profile%20views&color=0e75b6&style=flat" alt="crafzito111" /> </p>
 
 - <p align="center">👨‍💻 All of my projects are available at https://carlos-prado-portfolio.vercel.app/es</p>
 
